@@ -1,0 +1,10 @@
+{
+  "name": "metamask-plugin-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Whymarrh Whitby <whymarrh.whitby@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mm-plugin": "^0.3.11"
+  }
+}
