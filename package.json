@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Whymarrh Whitby <whymarrh.whitby@gmail.com>",
   "license": "MIT",
+  "dependencies": {
+    "is-ascii": "^1.0.0"
+  },
   "devDependencies": {
     "mm-plugin": "^0.3.11"
   },

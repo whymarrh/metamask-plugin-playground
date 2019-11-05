@@ -1473,6 +1473,11 @@ invariant@^2.2.2:
   dependencies:
     loose-envify "^1.0.0"
 
+is-ascii@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/is-ascii/-/is-ascii-1.0.0.tgz#f02ad0259a0921cd199ff21ce1b09e0f6b4e3929"
+  integrity sha1-8CrQJZoJIc0Zn/Ic4bCeD2tOOSk=
+
 is-binary-path@~2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/is-binary-path/-/is-binary-path-2.1.0.tgz#ea1f7f3b80f064236e83470f86c09c254fb45b09"
